@@ -1,4 +1,4 @@
-In this project we are finding that which passengers are rescued from Titanic collision. Using data available on Kaggle.
+In this project we are finding that which passengers were rescued from Titanic collision. Using data available on Kaggle.
 Following things has been done in this project:
 
 Exploratory Data Analysis
