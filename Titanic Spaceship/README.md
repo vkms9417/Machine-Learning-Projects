@@ -2,14 +2,14 @@ In this project we are finding that which passengers were rescued from Titanic c
 
 Following things has been done in this project:
 
-Exploratory Data Analysis 
+1. Exploratory Data Analysis 
 
-Data Cleaning 
+2. Data Cleaning 
 
-Feature Engineering
+3. Feature Engineering
 
-Encoding, Scaling and Preprocessing 
+4. Encoding, Scaling and Preprocessing 
 
-Training Machine Learning Models 
+5. Training Machine Learning Models 
 
-Cross Validation and Ensembling Predictions
+6. Cross Validation and Ensembling Predictions
