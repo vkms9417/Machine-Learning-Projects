@@ -6,3 +6,5 @@ Improvements to the current model will hopefully help online discussion become m
 
 For Data please visit below link:
 https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
+
+### Techniques used: NLP, Tensorflow, Keras etc
